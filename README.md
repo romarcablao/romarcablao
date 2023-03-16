@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Romar, a tech enthusiast who is passionate in exploring the cloud native space. I'm passionate about exploring new technologies and methodologies to stay ahead of the curve in the rapidly evolving cloud computing industry. Currently I'm working as Cloud/DevOps Engineer in Stratpoint. 
+My name is Romar and I have a keen interest in the field of cloud-native technology.  I am an avid tech enthusiast who is always eager to learn about the latest advancements in this rapidly-evolving industry. As a Cloud/DevOps Engineer at Stratpoint, I am dedicated to exploring new technologies and methodologies that will keep me ahead of the curve.
 
 You can find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-romarcablao-blue)](https://linkedin.com/in/romarcablao) or you may visit the following:
     
